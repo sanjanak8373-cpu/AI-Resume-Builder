@@ -137,7 +137,7 @@ VITE_BASE_URL=https://your-backend-url.onrender.com
 
 ### Resume Preview
 
-![Resume](assets/resume_preview.png)
+![Resume](assets/resume_preview)
 
 ---
 
