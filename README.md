@@ -120,24 +120,24 @@ VITE_BASE_URL=https://your-backend-url.onrender.com
 
 ### Home Page
 
-[Home](screenshots/Home.png)
+![Home](screenshots/Home.png)
 
 ### Register Page
 
-[Register Page](screenshots/Register.png)
+![Register Page](screenshots/Register.png)
 
 
 ### Dashboard
 
-[Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Resume Builder
 
-[Resume Builder](screenshots/resumeBuilderForm.png)
+![Resume Builder](screenshots/resumeBuilderForm.png)
 
 ### Resume Preview
 
-[Resume Preview](screenshots/resume_preview.png)
+![Resume Preview](screenshots/resume_preview.png)
 
 ---
 
