@@ -1,4 +1,4 @@
-# 🚀 AI Resume Builder
+<img width="1903" height="873" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/33c24c87-c98f-4bb0-b490-b2d0b04787a8" /># 🚀 AI Resume Builder
 
 An AI-powered Resume Builder that helps users create, customize, and download professional resumes with a modern, responsive interface.
 
@@ -120,15 +120,24 @@ VITE_BASE_URL=https://your-backend-url.onrender.com
 
 ### Home Page
 
-_Add screenshots here_
+[Home](screenshots/Home.png)
+
+### Register Page
+
+[Register Page](screenshots/Register.png)
+
 
 ### Dashboard
 
-_Add screenshots here_
+[Dashboard](screenshots/Dashboard.png)
 
 ### Resume Builder
 
-_Add screenshots here_
+[Resume](screenshots/resumeBuilderForm.png)
+
+### Resume Preview
+
+[Resume Preview](screenshots/resume_preview.png)
 
 ---
 
