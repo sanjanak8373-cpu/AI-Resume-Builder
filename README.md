@@ -198,8 +198,7 @@ git push origin feature-name
 GitHub:
 https://github.com/sanjanak8373-cpu
 
-LinkedIn:
-(Add your LinkedIn profile)
+
 
 ---
 
